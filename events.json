@@ -1,0 +1,22 @@
+[
+  {
+    "title": "יום הולדת לנועה",
+    "date": "2026-07-15",
+    "type": "birthday",
+    "repeat": "yearly"
+  },
+  {
+    "title": "תרופה - אבא",
+    "date": "2026-07-01",
+    "time": "08:00",
+    "type": "medicine",
+    "repeat": "daily"
+  },
+  {
+    "title": "חוג כדורסל - דני",
+    "date": "2026-07-02",
+    "time": "16:30",
+    "type": "activity",
+    "repeat": "weekly"
+  }
+]
